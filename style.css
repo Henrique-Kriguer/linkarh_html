@@ -1,0 +1,56 @@
+
+
+body{
+    background-color: #ccc;
+    margin: auto;
+    
+}
+#title,.subtitle,.article-title{
+    color: indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.article-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16 px;
+    font-style: italic;
+    text-align: center;
+}
+
+.post{
+    width: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    padding: 2px 20px;
+    border-radius: 1%;
+    margin: 0%;
+}
+.missao{
+    width: 300px;
+    background-color: antiquewhite;
+    padding: 2px 20px;
+    border-radius: 1%;
+}
+.visao{
+    width: 300px;
+    background-color: antiquewhite;
+    padding: 2px 20px;
+    border-radius: 1%;
+}
+.valores{
+    width: 300px;
+    background-color: antiquewhite;
+    padding: 2px 20px;
+    border-radius: 1%;
+}
+
+.meio{
+    font-size: xx-small;
+    text-align: center;
+   
+   
+}
+.footer{
+    background-color: antiquewhite;
+    padding: 2px 20px;
+    border-radius: 1%;
+}
